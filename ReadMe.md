@@ -29,5 +29,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinik21&theme=algolia&layout=compact" />
 </p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jinik21&theme=algolia" alt="jinik21" /></p>
-
+<img src="https://raw.githubusercontent.com/jinik21/jinik21/master/github-metrics.svg">
 
