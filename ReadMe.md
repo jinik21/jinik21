@@ -18,6 +18,11 @@
 
 <h3 align="left">Weekly Work Breakdown</h3>
 <!--START_SECTION:waka-->
+```text
+JavaScript   51 mins         █████████████████████▓░░░   86.77 % 
+JSON         6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+CSS          1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+```
 <!--END_SECTION:waka-->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
