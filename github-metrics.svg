@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            555 Commits
+                            558 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2223,18 +2223,52 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
+                                        Pushed 2 commits in
                                         <span class="repo">jinik21/osdhackf</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a4e1de2</div>
-                                        <div class="message">adding css</div>
+                                        <div class="sha">#42c69a7</div>
+                                        <div class="message">Merge pull request #3 from jinik21/imgbot
+
+[ImgBot] Optimize images</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d17c6f7</div>
+                                        <div class="message">[ImgBot] Optimize images
+
+*Total -- 263.54kb -&gt; 251.40kb (4.61%)
+
+/public/android-chrome-512x512.png -- 10.29kb -&gt; 2.20kb (78.62%)
+/public/android-chrome-192x192.png -- 2.68kb -&gt; 1.25kb (53.28%)
+/public/apple-touch-icon.png -- 2.32kb -&gt; 1.19kb (48.65%)
+/src/images/home-adv.png -- 124.12kb -&gt; 123.38kb (0.6%)
+/public/images/home-adv.png -- 124.12kb -&gt; 123.38kb (0.6%)
+
+Signed-off-by: ImgBotApp &lt;ImgBotHelp@gmail.com&gt;</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">23 Jan 2022, 12:10:44</div>
+                                <div class="timestamp">23 Jan 2022, 16:48:23</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Merged
+                                        <span class="issue">#3 [ImgBot] Optimize images</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by imgbot[bot] in <span class="repo">jinik21/osdhackf</span></div>
+                                    <div>5 files changed <span class="code">++0 --0</span></div>
+                                </div>
+                                <div class="timestamp">23 Jan 2022, 16:48:22</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -2251,88 +2285,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#80a0871</div>
-                                        <div class="message">sessions update</div>
+                                        <div class="sha">#a2359f0</div>
+                                        <div class="message">adding notes</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">23 Jan 2022, 11:28:04</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">jinik21/osdhackf</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#62f4bfc</div>
-                                        <div class="message">Merge pull request #2 from jinik21/imgbot
-
-[ImgBot] Optimize images</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#652952a</div>
-                                        <div class="message">[ImgBot] Optimize images
-
-*Total -- 1,651.77kb -&gt; 1,289.37kb (21.94%)
-
-/public/images/upload copy.png -- 89.44kb -&gt; 33.93kb (62.06%)
-/public/images/upload.png -- 89.44kb -&gt; 33.93kb (62.06%)
-/public/images/home-ai.png -- 13.26kb -&gt; 9.34kb (29.56%)
-/public/images/quiz.png -- 24.49kb -&gt; 17.50kb (28.56%)
-/public/images/web.png -- 193.21kb -&gt; 138.59kb (28.27%)
-/public/images/web copy.png -- 193.21kb -&gt; 138.59kb (28.27%)
-/public/images/home-2.png -- 27.20kb -&gt; 20.09kb (26.12%)
-/public/images/revision.png -- 11.22kb -&gt; 8.33kb (25.76%)
-/public/images/home-1.png -- 25.53kb -&gt; 19.16kb (24.97%)
-/public/images/home-int.png -- 19.51kb -&gt; 14.92kb (23.52%)
-/public/images/home-3.png -- 21.33kb -&gt; 16.38kb (23.21%)
-/public/images/learn.png -- 13.59kb -&gt; 10.73kb (21.07%)
-/public/images/home-4.png -- 39.24kb -&gt; 31.48kb (19.76%)
-/public/images/home-liveclass.png -- 13.62kb -&gt; 10.97kb (19.41%)
-/public/images/reading.png -- 38.79kb -&gt; 32.09kb (17.26%)
-/public/images/linkedin.png -- 173.44kb -&gt; 143.53kb (17.24%)
-/public/images/linkedin copy.png -- 173.44kb -&gt; 143.53kb (17.24%)
-/public/images/courses.png -- 13.65kb -&gt; 11.72kb (14.15%)
-/public/images/logo copy.png -- 2.86kb -&gt; 2.46kb (14.12%)
-/public/images/logo.png -- 2.86kb -&gt; 2.46kb (14.12%)
-/public/images/ai-int.png -- 22.12kb -&gt; 20.10kb (9.14%)
-/public/images/video.png -- 26.74kb -&gt; 24.61kb (7.97%)
-/public/images/resume.png -- 98.09kb -&gt; 93.06kb (5.13%)
-/public/images/google-play.png -- 8.56kb -&gt; 8.17kb (4.55%)
-/public/images/youtube.png -- 141.80kb -&gt; 135.61kb (4.37%)
-/public/images/youtube copy.png -- 141.80kb -&gt; 135.61kb (4.37%)
-/public/images/home-adv.png -- 33.34kb -&gt; 32.46kb (2.64%)
-
-Signed-off-by: ImgBotApp &lt;ImgBotHelp@gmail.com&gt;</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">23 Jan 2022, 05:45:42</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Merged
-                                        <span class="issue">#2 [ImgBot] Optimize images</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by imgbot[bot] in <span class="repo">jinik21/osdhackf</span></div>
-                                    <div>27 files changed <span class="code">++0 --0</span></div>
-                                </div>
-                                <div class="timestamp">23 Jan 2022, 05:45:42</div>
+                                <div class="timestamp">23 Jan 2022, 14:56:21</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -2349,11 +2306,32 @@ Signed-off-by: ImgBotApp &lt;ImgBotHelp@gmail.com&gt;</div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#3293275</div>
-                                        <div class="message">agora</div>
+                                        <div class="sha">#298559c</div>
+                                        <div class="message">agora home</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">23 Jan 2022, 05:44:23</div>
+                                <div class="timestamp">23 Jan 2022, 14:47:04</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">jinik21/osdhackf</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#a4e1de2</div>
+                                        <div class="message">adding css</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">23 Jan 2022, 12:10:44</div>
                             </section>
                         </div>
                     </section>
@@ -2401,7 +2379,7 @@ Signed-off-by: ImgBotApp &lt;ImgBotHelp@gmail.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Jan 2022, 14:41:30 (timezone Asia/Calcutta) with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 23 Jan 2022, 17:48:57 (timezone Asia/Calcutta) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
