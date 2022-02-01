@@ -20,10 +20,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   3 hrs 38 mins   ██████████████████████░░░   87.90 % 
-CSS          25 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
-HTML         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
-JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
