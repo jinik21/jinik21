@@ -20,10 +20,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Total: 29 mins
+Total: 2 mins
 
-JavaScript   27 mins         ███████████████████████░░   92.47 % 
-Bash         2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+JavaScript   2 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
