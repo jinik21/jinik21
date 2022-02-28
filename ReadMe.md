@@ -19,12 +19,11 @@
 <h3 align="left">Weekly Work Breakdown</h3>
 
 <!--START_SECTION:waka-->
+
 ```text
-JavaScript   31 mins         ████████████████▒░░░░░░░░   65.79 % 
-JSON         5 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-HTML         5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
-CSS          4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
 
 <h3 align="left">Languages and Tools:</h3>
