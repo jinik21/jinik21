@@ -21,9 +21,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-C++          34 mins         ██████████████████▓░░░░░░   75.21 %
-JSON         10 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.84 %
-JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
